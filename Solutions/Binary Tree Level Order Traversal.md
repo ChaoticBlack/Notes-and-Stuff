@@ -4,7 +4,7 @@ Given the `root` of a binary tree, return _the level order traversal of its node
 Level order traversal is done using the ***Breadth First Search*** Algorithm. For that a queue is used.
 - FIrst push the root in the queue. 
 - Then while queue is not empty, you pop the first element, add it to current level vector and add its children to the queue.
-- To make sure you only tackle one level nodes per iteration of the while loop, at the beginning of the iteration you find the lengh of the queue and just loop through the first `len` elements of the queue, ignoreing all the newly added elements .
+- To make sure you only tackle one level nodes per iteration of the while loop, at the beginning of the iteration you find the lengh of the queue and just loop through the first `len` elements of the queue, ignoring all the newly added elements .
 - Kinda sexy when you think about it.
 
 
