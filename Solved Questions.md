@@ -25,3 +25,18 @@ https://leetcode.com/problems/two-sum/
 [[Two Sum | Solution]]
 #easy #array #HashTable
 
+
+### 55. Jump Game
+https://leetcode.com/problems/jump-game/description/
+[[Jump Game| Solution]]
+#dynamic #medium #greedy 
+
+### 70. Climbing Stairs
+https://leetcode.com/problems/climbing-stairs/
+[[Climbing Stairs| Solution]]
+#easy #dynamic 
+
+### 198. House Robber
+https://leetcode.com/problems/house-robber/
+[[House Robber | Solution]]
+#medium #dynamic 
