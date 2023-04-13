@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Projects.md",
+                "file": "Solved Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ea63e4ea17e85a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solved Questions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "358c81a351652f30",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Projects.md",
+                "file": "Solved Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Projects.md",
+                "file": "Solved Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Projects.md"
+                "file": "Solved Questions.md"
               }
             }
           }
@@ -147,10 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad93a8f83d1e618",
+  "active": "2ea63e4ea17e85a4",
   "lastOpenFiles": [
+    "Solved Questions.md",
+    "Solutions/Maximum Alternating Subsequence Sum.md",
+    "Solutions/Removing Minimum and Maximum From Array.md",
+    "Solutions/Maximum Alternating Subsequence Sum.jpeg",
+    "Solutions/Subarray Product Less Than K.md",
+    "Solutions/Subarray Product Less Than K.mp3",
+    "Solutions/Template.md",
+    "Solutions/Jump Game.md",
+    "Solutions/House Robber.md",
+    "Solutions/Jump Game.jpeg",
+    "Solutions/Linked List Cycle.md",
+    "Solutions/Maximum Alternating Subsequence Sum.mp3",
+    "Grokking the Coding Interview.md",
+    "Audio test.md",
+    "My Projects.md",
     "Shivam_Resume.pdf",
-    "Solutions/Binary Tree Level Order Traversal.md",
-    "Grokking the Coding Interview.md"
+    "Solutions/Binary Tree Level Order Traversal.md"
   ]
 }

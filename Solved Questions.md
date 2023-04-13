@@ -40,3 +40,13 @@ https://leetcode.com/problems/climbing-stairs/
 https://leetcode.com/problems/house-robber/
 [[House Robber | Solution]]
 #medium #dynamic 
+
+### 1911. Maximum Alternating Subsequence Sum
+https://leetcode.com/problems/maximum-alternating-subsequence-sum/description/
+[[Maximum Alternating Subsequence Sum| Solution]]
+#dynamic #medium 
+
+### 713. Subarray Product Less Than K
+https://leetcode.com/problems/subarray-product-less-than-k/description/
+[[Subarray Product Less Than K| Solution]]
+#sliding #array #medium 
