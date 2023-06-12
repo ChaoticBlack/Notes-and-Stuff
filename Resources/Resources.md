@@ -3,8 +3,10 @@
 
 - [[Blind 75]]
 - [[NeetCode 150]]
-- [[Video Resources]]
 - [[Grokking the Coding Interview]]
+- [[The 29 most common Software Engineer behavioral interview questions]]
+- [[Amazon Software Engineer behavioral interview questions]]
+- 
 
 
 

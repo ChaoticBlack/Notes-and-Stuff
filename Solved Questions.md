@@ -50,3 +50,18 @@ https://leetcode.com/problems/maximum-alternating-subsequence-sum/description/
 https://leetcode.com/problems/subarray-product-less-than-k/description/
 [[Subarray Product Less Than K| Solution]]
 #sliding #array #medium 
+
+### 416. Partition Equal Subset Sum
+https://leetcode.com/problems/partition-equal-subset-sum/
+[[Partition Equal Subset Sum | Solution]]
+#dynamic #array #medium 
+
+### 523. Continuous Subarray Sum
+https://leetcode.com/problems/continuous-subarray-sum/
+[[Continuous Subarray Sum | Solution]]
+#HashTable #array #medium 
+
+### 228. Summary Ranges
+https://leetcode.com/problems/summary-ranges/description/
+[[ Summary Ranges| Solution]]
+#easy #array 

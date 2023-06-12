@@ -9,7 +9,7 @@ Behavioral questions attempt to gauge how you would behave in stressful or other
 > Tell me about a time you had a conflict with a team member and how you handled it?
 
 
-## [[Values interviews]]
+## [[Values Interviews]]
 
 Not to be confused with behavioral interviews, values interviews attempt to gauge how you align with a company's value system. For example, Google has its [Ten things we know to be true](https://about.google/philosophy/), which is a set of philosophies against which candidates might be assessed.
 
