@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solutions/Summary Ranges.md",
+                "file": "non-LeetCode Companies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7b37896457eb836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solutions/Search Insert Position.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solutions/Summary Ranges.md",
+                "file": "Solutions/Search Insert Position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solutions/Summary Ranges.md",
+                "file": "Solutions/Search Insert Position.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solutions/Summary Ranges.md"
+                "file": "Solutions/Search Insert Position.md"
               }
             }
           }
@@ -154,18 +167,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea59395b8721d8d1",
+  "active": "c982cc36d3ce2461",
   "lastOpenFiles": [
+    "Solutions/Search Insert Position.mp3",
+    "Solutions/Template.md",
+    "Qualcomm prep.md",
+    "Solutions/Search Insert Position.md",
     "Solved Questions.md",
+    "startup shortlist.md",
+    "non-LeetCode Companies.md",
+    "My Projects.md",
+    "LeetCode Companies.md",
+    "Shivam Rajput.md",
     "Solutions/Summary Ranges.md",
     "Solutions/Subarray Product Less Than K.md",
     "Solutions/Summary Ranges.mp3",
     "Solutions/Reverse String.md",
     "Solutions/Subarray Product Less Than K.mp3",
     "Solutions/Removing Minimum and Maximum From Array.md",
-    "Solutions/Template.md",
-    "Shivam Rajput.md",
-    "My Projects.md",
     "From Email/Technical Tips.md",
     "From Email/Behavioural Tips.md",
     "From Email",
@@ -173,7 +192,6 @@
     "Solutions/Binary Tree Level Order Traversal.md",
     "Solutions/House Robber.wav",
     "Interview tips from avantika.md",
-    "Qualcomm prep.md",
     "Solutions/Maximum Alternating Subsequence Sum.md",
     "Solutions/Continuous Subarray Sum.md",
     "Solutions/Partition Equal Subset Sum.md",
@@ -182,11 +200,7 @@
     "Resources/Amazon Software Engineer behavioral interview questions.md",
     "Resources/Values Interviews.md",
     "Resources/The 29 most common Software Engineer behavioral interview questions.md",
-    "Interview Types.md",
-    "Video Resources.md",
     "Solutions/Maximum Alternating Subsequence Sum.jpeg",
-    "Solutions/Jump Game.md",
-    "Solutions/House Robber.md",
     "Solutions/Jump Game.jpeg",
     "Solutions/Maximum Alternating Subsequence Sum.mp3",
     "Shivam_Resume.pdf"

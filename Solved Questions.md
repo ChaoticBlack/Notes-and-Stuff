@@ -65,3 +65,8 @@ https://leetcode.com/problems/continuous-subarray-sum/
 https://leetcode.com/problems/summary-ranges/description/
 [[ Summary Ranges| Solution]]
 #easy #array 
+
+### 35. Search Insert Position
+https://leetcode.com/problems/search-insert-position/description/
+[[Search Insert Position| Solution]]
+#easy #BinarySearch
