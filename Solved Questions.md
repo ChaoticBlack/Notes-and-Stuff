@@ -70,3 +70,18 @@ https://leetcode.com/problems/summary-ranges/description/
 https://leetcode.com/problems/search-insert-position/description/
 [[Search Insert Position| Solution]]
 #easy #BinarySearch
+
+### 34. Find First and Last Position of Element in Sorted Array
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+[[Find First and Last Position of Element in Sorted Array | Solution]]
+#medium #BinarySearch 
+
+### 74. Search a 2D Matrix
+https://leetcode.com/problems/search-a-2d-matrix/
+[[Search a 2D Matrix | Solution]]
+#medium #BinarySearch #2DMatrix
+
+### 240. Search a 2D Matrix II
+https://leetcode.com/problems/search-a-2d-matrix-ii/description/
+[[Search a 2D Matrix II | Solution]]
+#medium #BinarySearch #DivideandConquer #2DMatrix 
