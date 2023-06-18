@@ -85,3 +85,13 @@ https://leetcode.com/problems/search-a-2d-matrix/
 https://leetcode.com/problems/search-a-2d-matrix-ii/description/
 [[Search a 2D Matrix II | Solution]]
 #medium #BinarySearch #DivideandConquer #2DMatrix 
+
+### 153. Find Minimum in Rotated Sorted Array
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+[[Find Minimum in Rotated Sorted Array | Solution]]
+#medium #BinarySearch 
+
+### 33. Search in Rotated Sorted Array
+https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+[[Search in Rotated Sorted Array | Solution]]
+#medium #BinarySearch 

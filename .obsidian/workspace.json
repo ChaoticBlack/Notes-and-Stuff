@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solutions/Search a 2D Matrix II.md",
+                "file": "Solved Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solutions/Search a 2D Matrix II.md",
+                "file": "Solved Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solutions/Search a 2D Matrix II.md",
+                "file": "Solved Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solutions/Search a 2D Matrix II.md"
+                "file": "Solved Questions.md"
               }
             }
           }
@@ -167,21 +167,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c982cc36d3ce2461",
+  "active": "e7b37896457eb836",
   "lastOpenFiles": [
-    "Solutions/Search a 2D Matrix II.mp3",
-    "Solved Questions.md",
+    "Solutions/Search in Rotated Sorted Array.md",
+    "Solutions/Search in Rotated Sorted Array.mp3",
     "Template.md",
+    "Solved Questions.md",
+    "Solutions/Find Minimum in Rotated Sorted Array.md",
+    "Solutions/Find First and Last Position of Element in Sorted Array.md",
+    "Solutions/Find Minimum in Rotated Sorted Array.mp3",
+    "non-LeetCode Companies.md",
+    "Solutions/Search a 2D Matrix II.mp3",
     "Solutions/Search a 2D Matrix II.md",
     "Solutions/Search a 2D Matrix.md",
     "Solutions/Search a 2D Matrix.mp3",
-    "Solutions/Find First and Last Position of Element in Sorted Array.md",
     "Solutions/ind First and Last Position of Element in Sorted Array.mp3",
     "Solutions/Search Insert Position.md",
     "Solutions/Search Insert Position.mp3",
     "Qualcomm prep.md",
     "startup shortlist.md",
-    "non-LeetCode Companies.md",
     "My Projects.md",
     "LeetCode Companies.md",
     "Shivam Rajput.md",
@@ -200,12 +204,7 @@
     "Interview tips from avantika.md",
     "Solutions/Maximum Alternating Subsequence Sum.md",
     "Solutions/Continuous Subarray Sum.md",
-    "Solutions/Partition Equal Subset Sum.md",
-    "Solutions/Partition Equal Subset Sum.mp3",
-    "Resources/Resources.md",
     "Solutions/Maximum Alternating Subsequence Sum.jpeg",
-    "Solutions/Jump Game.jpeg",
-    "Solutions/Maximum Alternating Subsequence Sum.mp3",
-    "Shivam_Resume.pdf"
+    "Solutions/Jump Game.jpeg"
   ]
 }
