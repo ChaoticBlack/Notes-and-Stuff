@@ -130,3 +130,18 @@ https://leetcode.com/problems/maximum-subarray/
 https://leetcode.com/problems/contains-duplicate-ii/description/
 [[Contains Duplicate II|Solution]]
 #easy #sliding #HashTable 
+
+### 121. Best Time to Buy and Sell Stock
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+[[Best Time to Buy and Sell Stock|Solution]]
+#easy #sliding 
+
+### 76. Minimum Window Substring
+https://leetcode.com/problems/minimum-window-substring/
+[[Minimum Window Substring|Solution]]
+#hard #sliding #HashTable #string 
+
+### 424. Longest Repeating Character Replacement
+https://leetcode.com/problems/longest-repeating-character-replacement/
+[[Longest Repeating Character Replacement|Solution]]
+#medium #sliding #HashTable #string 
