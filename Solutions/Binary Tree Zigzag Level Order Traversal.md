@@ -71,5 +71,9 @@ public:
 
 ## My Notes
 
-- the mistake that i was makeing is that instead of reversing the vector, i was changing the order in which the nodes were being added to queue (ie if flag was set I was adding right child to queue before left)
+- the mistake that i was making is that instead of reversing the vector, i was changing the order in which the nodes were being added to queue (ie if flag was set I was adding right child to queue before left)
 - This is stupid, don't do stupid.
+
+## Tag
+
+#medium #BinaryTree #BreadthFirstSearch 

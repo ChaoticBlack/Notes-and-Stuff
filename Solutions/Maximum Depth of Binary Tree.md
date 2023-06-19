@@ -92,3 +92,7 @@ public:
 
 ## My Notes
 Approach 1 is better but approach 2 is more intuitive.
+
+## Tags
+
+#easy #BreadthFirstSearch #BinaryTree 

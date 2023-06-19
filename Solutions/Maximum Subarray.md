@@ -41,5 +41,9 @@ will revisit after doing DP
 
 
 ## My Notes:
-- Key concept is that if adding an element to the subarray makes the sum negative, then the entire subarray untill that point becomes dead weight. So drop it and move forward.
+- Key concept is that if adding an element to the subarray makes the sum negative, then the entire subarray until that point becomes dead weight. So drop it and move forward.
 - variable window size problem
+
+## Tags
+
+#medium #DivideandConquer #dynamic 

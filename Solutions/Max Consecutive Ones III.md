@@ -72,3 +72,7 @@ public int longestOnes(int[] A, int K) {
 
 ## My Notes
 - The intution was the difficult part. code is straightforward.
+
+## Tags
+
+#medium #BinarySearch #sliding #PrefixSum

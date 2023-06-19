@@ -84,3 +84,8 @@ public:
 - instead of using map and vector in map using a set would have been better.
 - the key concept was, after finding the duplicate, move the window ahead by as many elements as it takes to find the first occerance of this duplicate. now the window has fresh non repeating string. While doing this, update the map by removing deleted elements.
 - variable window size problem
+
+
+## Tags
+
+#medium #HashTable #sliding 

@@ -95,3 +95,38 @@ https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
 https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 [[Search in Rotated Sorted Array | Solution]]
 #medium #BinarySearch 
+
+### 102. Binary Tree Level Order Traversal
+https://leetcode.com/problems/binary-tree-level-order-traversal/
+[[Binary Tree Level Order Traversal | Solution]]
+#medium #BinaryTree #BreadthFirstSearch
+
+### 103. Binary Tree Zigzag Level Order Traversal
+https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+[[Binary Tree Zigzag Level Order Traversal | Solution]]
+#medium #BinaryTree #BreadthFirstSearch 
+
+### 3. Longest Substring Without Repeating Characters
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
+[[Longest Substring Without Repeating Characters|Solution]]
+#medium #HashTable #sliding 
+
+### 1004. Max Consecutive Ones III
+https://leetcode.com/problems/max-consecutive-ones-iii/
+[[Max Consecutive Ones III]]
+#medium #BinarySearch #sliding #PrefixSum
+
+### 104. Maximum Depth of Binary Tree
+https://leetcode.com/problems/maximum-depth-of-binary-tree/
+[[Maximum Depth of Binary Tree|Solution]]
+#easy #BreadthFirstSearch #BinaryTree 
+
+### 53. Maximum Subarray
+https://leetcode.com/problems/maximum-subarray/
+[[Maximum Subarray|Solution]]
+#medium #DivideandConquer #dynamic 
+
+### 219. Contains Duplicate II
+https://leetcode.com/problems/contains-duplicate-ii/description/
+[[Contains Duplicate II|Solution]]
+#easy #sliding #HashTable 
