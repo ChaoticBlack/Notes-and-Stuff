@@ -23,6 +23,18 @@
             "id": "62392778ab80eb5f",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grokking the Coding Interview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0adc6d38837064ce",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
@@ -33,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solutions/Longest Repeating Character Replacement.md",
+                "file": "Solved Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solutions/Longest Repeating Character Replacement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solutions/Longest Repeating Character Replacement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Solutions/Longest Repeating Character Replacement.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -175,20 +183,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c982cc36d3ce2461",
+  "active": "0adc6d38837064ce",
   "lastOpenFiles": [
-    "Solutions/Longest Repeating Character Replacement.mp3",
-    "Template.md",
-    "Solutions/Longest Repeating Character Replacement.md",
+    "Solutions/Detect Cycles in 2D Grid.md",
     "Solved Questions.md",
+    "Solutions/Number of Islands.md",
+    "Solutions/Detect Cycles in 2D Grid.mp3",
+    "Template.md",
+    "Solutions/Island Perimeter.md",
+    "Solutions/Number of Closed Islands.md",
+    "Solutions/Number of Closed Islands.mp3",
+    "Solutions/Flood Fill.md",
+    "Solutions/Flood Fill.mp3",
+    "Solutions/Max Area of Island.md",
+    "Solutions/Max Area of Island.mp3",
+    "Solutions/Number of Islands.mp3",
+    "Solutions/Contains Duplicate II.md",
+    "Grokking the Coding Interview.md",
+    "Generative AI Startups.md",
+    "Solutions/Longest Repeating Character Replacement.md",
+    "Solutions/Longest Substring Without Repeating Characters.md",
+    "Solutions/Best Time to Buy and Sell Stock.md",
+    "Solutions/Longest Repeating Character Replacement.mp3",
     "Solutions/Minimum Window Substring.md",
     "Solutions/Minimum Window Substring.mp3",
-    "Solutions/Best Time to Buy and Sell Stock.md",
     "Solutions/Best Time to Buy and Sell Stock.mp3",
-    "Solutions/Contains Duplicate II.md",
     "Solutions/Contains Duplicate II.mp3",
-    "Solutions/Longest Substring Without Repeating Characters.md",
-    "Grokking the Coding Interview.md",
     "Solutions/Two Sum.md",
     "Solutions/Summary Ranges.md",
     "Solutions/Subarray Product Less Than K.md",
@@ -200,20 +220,7 @@
     "Solutions/Removing Minimum and Maximum From Array.md",
     "Solutions/Partition Equal Subset Sum.mp3",
     "Solutions/Partition Equal Subset Sum.md",
-    "Solutions/Maximum Subarray.md",
-    "non-LeetCode Companies.md",
-    "Solutions/Maximum Depth of Binary Tree.md",
-    "Solutions/Maximum Alternating Subsequence Sum.md",
-    "Solutions/Max Consecutive Ones III.md",
-    "Solutions/Linked List Cycle.md",
-    "Solutions/Jump Game.md",
     "Solutions/Jump Game.jpeg",
-    "Solutions/ind First and Last Position of Element in Sorted Array.mp3",
-    "Solutions/Search in Rotated Sorted Array.mp3",
-    "Solutions/Find Minimum in Rotated Sorted Array.mp3",
-    "Solutions/Search a 2D Matrix II.mp3",
-    "Solutions/Search a 2D Matrix.mp3",
-    "Solutions/Search Insert Position.mp3",
     "Solutions/Maximum Alternating Subsequence Sum.jpeg"
   ]
 }

@@ -145,3 +145,33 @@ https://leetcode.com/problems/minimum-window-substring/
 https://leetcode.com/problems/longest-repeating-character-replacement/
 [[Longest Repeating Character Replacement|Solution]]
 #medium #sliding #HashTable #string 
+
+### 200. Number of Islands
+https://leetcode.com/problems/number-of-islands/
+[[Number of Islands|Solution]]
+#medium #2DMatrix #DepthFirstSearch #BreadthFirstSearch 
+
+### 695. Max Area of Island
+https://leetcode.com/problems/max-area-of-island/
+[[Max Area of Island|Solution]]
+#medium #2DMatrix #DepthFirstSearch #BreadthFirstSearch 
+
+### 733. Flood Fill
+https://leetcode.com/problems/flood-fill/
+[[Flood Fill|Solution]]
+#easy #2DMatrix #DepthFirstSearch #BreadthFirstSearch 
+
+### 1254. Number of Closed Islands
+https://leetcode.com/problems/number-of-closed-islands/
+[[Number of Closed Islands|Solution]]
+#medium #2DMatrix #DepthFirstSearch #BreadthFirstSearch 
+
+### 463. Island Perimeter
+https://leetcode.com/problems/island-perimeter/
+[[Island Perimeter|Solution]]
+#easy #2DMatrix 
+
+### 1559. Detect Cycles in 2D Grid
+https://leetcode.com/problems/detect-cycles-in-2d-grid/
+[[Detect Cycles in 2D Grid|Solution]]
+#medium #2DMatrix #DepthFirstSearch #BreadthFirstSearch 

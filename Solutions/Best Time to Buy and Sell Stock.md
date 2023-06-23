@@ -36,7 +36,19 @@ public:
 
 
 ## Ideal Code
-mine is more or less ideal
+
+```cpp
+int maxProfit(vector<int> &prices) {
+    int maxPro = 0;
+    int minPrice = INT_MAX;
+    for(int i = 0; i < prices.size(); i++){
+        minPrice = min(minPrice, prices[i]);
+        maxPro = max(maxPro, prices[i] - minPrice);
+    }
+    return maxPro;
+}
+```
+
 ## Complexity
 - Time - O(n)
 - Space - O(1)
