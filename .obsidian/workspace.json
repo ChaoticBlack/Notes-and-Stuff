@@ -35,8 +35,12 @@
             "id": "0adc6d38837064ce",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Generative AI Startups.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -126,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Generative AI Startups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Generative AI Startups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Generative AI Startups.md"
+              }
             }
           }
         ]
