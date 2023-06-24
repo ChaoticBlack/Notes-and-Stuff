@@ -178,3 +178,13 @@ https://leetcode.com/problems/detect-cycles-in-2d-grid/
 https://leetcode.com/problems/palindrome-linked-list/description/
 [[Palindrome Linked List|Solution]]
 #easy #LinkedList #TwoPointers 
+
+### 143. Reorder List
+https://leetcode.com/problems/reorder-list/
+[[Reorder List|Solution]]
+#medium #LinkedList #TwoPointers 
+
+### 111. Minimum Depth of Binary Tree
+https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
+[[Minimum Depth of Binary Tree|Solution]]
+#easy  #BinaryTree #DepthFirstSearch #BreadthFirstSearch 

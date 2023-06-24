@@ -33,21 +33,30 @@
 
 ## Pattern: Islands (Matrix Traversal)  
 - [-] number of islands [https://leetcode.com/problems/number-of-islands/](https://leetcode.com/problems/number-of-islands/)  
+	- [[Number of Islands|Solution]]
 - [-] biggest island [https://leetcode.com/problems/max-area-of-island/](https://leetcode.com/problems/max-area-of-island/)  
+	- [[Max Area of Island|Solution]]
 - [-] flood fill [https://leetcode.com/problems/flood-fill/](https://leetcode.com/problems/flood-fill/)  
+		- [[Flood Fill|Solution]]
 - [-] number of closed islands [https://leetcode.com/problems/number-of-closed-islands/](https://leetcode.com/problems/number-of-closed-islands/)  
+		- [[Number of Closed Islands|Solution]]
 - [-] problem challenge 1 [https://leetcode.com/problems/island-perimeter/](https://leetcode.com/problems/island-perimeter/)  
+		- [[Island Perimeter|Solution]]
 - problem challenge 2 [https://leetcode.com/problems/number-of-distinct-islands/](https://leetcode.com/problems/number-of-distinct-islands/)  
 - [-] problem challenge 3 [https://leetcode.com/problems/detect-cycles-in-2d-grid/](https://leetcode.com/problems/detect-cycles-in-2d-grid/)
+	- [[Detect Cycles in 2D Grid|Solution]]
 
 ## Pattern: Fast & Slow pointers
 
 -   [-] [https://leetcode.com/problems/linked-list-cycle/](https://leetcode.com/problems/linked-list-cycle/)
+	- [[Linked List Cycle|Solution]]
 -  [-] [https://leetcode.com/problems/linked-list-cycle-ii/](https://leetcode.com/problems/linked-list-cycle-ii/)
+	- [[Linked List Cycle|Solution]]
 -   [https://leetcode.com/problems/happy-number/](https://leetcode.com/problems/happy-number/)
 -  [-] [https://leetcode.com/problems/middle-of-the-linked-list/](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [-]  [https://leetcode.com/problems/palindrome-linked-list/](https://leetcode.com/problems/palindrome-linked-list/)
--   [https://leetcode.com/problems/reorder-list/](https://leetcode.com/problems/reorder-list/)
+-  [-] [https://leetcode.com/problems/reorder-list/](https://leetcode.com/problems/reorder-list/)
+	- [[Reorder List|Solution]]
 -   [https://leetcode.com/problems/circular-array-loop/](https://leetcode.com/problems/circular-array-loop/)
 
 ## Pattern: Merge Intervals
@@ -89,6 +98,7 @@
 - [-] https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 - [[Maximum Depth of Binary Tree | Solution]]
 -   [https://leetcode.com/problems/minimum-depth-of-binary-tree/](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+	- [[Minimum Depth of Binary Tree|Solution]]  (different from finding max depth in binary tree so check it out)
 -   [https://leetcode.com/problems/inorder-successor-in-bst/](https://leetcode.com/problems/inorder-successor-in-bst/) # Close, not exact
 -   [https://leetcode.com/problems/populating-next-right-pointers-in-each-node/](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) # Close, grokk assumes non-perfect tree
 -   Next question is the same, but connect end nodes to the next level instead of null

@@ -2,7 +2,7 @@
 Given the root of a binary tree, return the zigzag level order traversal of its nodes' values. (i.e., from left to right, then right to left for the next level and alternate between). 
 
 ## Solution
-It is similar to the previous problem but the key is figuring out how to get the elements in right to left orer.
+It is similar to the previous problem but the key is figuring out how to get the elements in right to left order.
 for this we use a vector and a flag. We push all the nodes at the current level inside this vector.  If the flag is set reverse the vector (ie traverse from right to left) otherwise normal traversal.
 
 ## My Code

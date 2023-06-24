@@ -7,7 +7,7 @@ A binary tree's **maximum depth** is the number of nodes along the longest path
 The simplest approach is **recursive DFS**. 
 - Figure out the base condition and build on it.
 - if there are 0 nodes in binary tree then max len is 0. This is the base condition.
-- Recursive equation willl be something like
+- Recursive equation will be something like
 - `len = 1+max(rec(node->right),rec(node->left)) 
 
 ## My Code
