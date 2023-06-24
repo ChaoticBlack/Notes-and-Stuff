@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea59395b8721d8d1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "62392778ab80eb5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grokking the Coding Interview.md",
+                "file": "Solutions/Minimum Depth of Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solutions/Binary Tree Level Order Traversal.md",
+                "file": "Solutions/Populating Next Right Pointers in Each Node.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grokking the Coding Interview.md",
+                "file": "Solutions/Populating Next Right Pointers in Each Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grokking the Coding Interview.md",
+                "file": "Solutions/Populating Next Right Pointers in Each Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grokking the Coding Interview.md"
+                "file": "Solutions/Populating Next Right Pointers in Each Node.md"
               }
             }
           }
@@ -175,16 +167,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62392778ab80eb5f",
+  "active": "c2020a806fa8c754",
   "lastOpenFiles": [
+    "Grokking the Coding Interview.md",
+    "Solutions/Populating Next Right Pointers in Each Node.md",
+    "Solutions/Populating Next Right Pointers in Each Node.mp3",
+    "Template.md",
+    "Solved Questions.md",
+    "Solutions/Binary Tree Level Order Traversal.md",
     "Solutions/Minimum Depth of Binary Tree.md",
     "Solutions/Minimum Depth of Binary Tree.mp3",
-    "Solved Questions.md",
-    "Template.md",
-    "Grokking the Coding Interview.md",
     "Solutions/Maximum Depth of Binary Tree.md",
     "Solutions/Binary Tree Zigzag Level Order Traversal.md",
-    "Solutions/Binary Tree Level Order Traversal.md",
     "non-LeetCode Companies.md",
     "Solutions/Reorder List.md",
     "startup shortlist.md",
@@ -207,11 +201,9 @@
     "Solutions/Max Area of Island.mp3",
     "Solutions/Number of Islands.mp3",
     "Solutions/Contains Duplicate II.md",
-    "Solutions/Longest Repeating Character Replacement.md",
     "Solutions/Longest Repeating Character Replacement.mp3",
     "Solutions/Minimum Window Substring.mp3",
     "Solutions/Best Time to Buy and Sell Stock.mp3",
-    "Solutions/Contains Duplicate II.mp3",
     "Solutions/Jump Game.jpeg",
     "Solutions/Maximum Alternating Subsequence Sum.jpeg"
   ]

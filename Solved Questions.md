@@ -188,3 +188,8 @@ https://leetcode.com/problems/reorder-list/
 https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
 [[Minimum Depth of Binary Tree|Solution]]
 #easy  #BinaryTree #DepthFirstSearch #BreadthFirstSearch 
+
+### 116. Populating Next Right Pointers in Each Node
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/
+[[Populating Next Right Pointers in Each Node|Solution]]
+#medium #BinaryTree #BreadthFirstSearch 

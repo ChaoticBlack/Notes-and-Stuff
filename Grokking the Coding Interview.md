@@ -97,10 +97,11 @@
 - [[Binary Tree Zigzag Level Order Traversal|Solution]]
 - [-] https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 - [[Maximum Depth of Binary Tree | Solution]]
--   [https://leetcode.com/problems/minimum-depth-of-binary-tree/](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+-   [-] [https://leetcode.com/problems/minimum-depth-of-binary-tree/](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 	- [[Minimum Depth of Binary Tree|Solution]]  (different from finding max depth in binary tree so check it out)
 -   [https://leetcode.com/problems/inorder-successor-in-bst/](https://leetcode.com/problems/inorder-successor-in-bst/) # Close, not exact
 -   [https://leetcode.com/problems/populating-next-right-pointers-in-each-node/](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) # Close, grokk assumes non-perfect tree
+	- [[Populating Next Right Pointers in Each Node|Solution]]
 -   Next question is the same, but connect end nodes to the next level instead of null
 -   [https://leetcode.com/problems/binary-tree-right-side-view/](https://leetcode.com/problems/binary-tree-right-side-view/)
 
