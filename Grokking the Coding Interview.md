@@ -32,21 +32,21 @@
 
 
 ## Pattern: Islands (Matrix Traversal)  
-- number of islands [https://leetcode.com/problems/number-of-islands/](https://leetcode.com/problems/number-of-islands/)  
-- biggest island [https://leetcode.com/problems/max-area-of-island/](https://leetcode.com/problems/max-area-of-island/)  
-- flood fill [https://leetcode.com/problems/flood-fill/](https://leetcode.com/problems/flood-fill/)  
-- number of closed islands [https://leetcode.com/problems/number-of-closed-islands/](https://leetcode.com/problems/number-of-closed-islands/)  
-- problem challenge 1 [https://leetcode.com/problems/island-perimeter/](https://leetcode.com/problems/island-perimeter/)  
+- [-] number of islands [https://leetcode.com/problems/number-of-islands/](https://leetcode.com/problems/number-of-islands/)  
+- [-] biggest island [https://leetcode.com/problems/max-area-of-island/](https://leetcode.com/problems/max-area-of-island/)  
+- [-] flood fill [https://leetcode.com/problems/flood-fill/](https://leetcode.com/problems/flood-fill/)  
+- [-] number of closed islands [https://leetcode.com/problems/number-of-closed-islands/](https://leetcode.com/problems/number-of-closed-islands/)  
+- [-] problem challenge 1 [https://leetcode.com/problems/island-perimeter/](https://leetcode.com/problems/island-perimeter/)  
 - problem challenge 2 [https://leetcode.com/problems/number-of-distinct-islands/](https://leetcode.com/problems/number-of-distinct-islands/)  
-- problem challenge 3 [https://leetcode.com/problems/detect-cycles-in-2d-grid/](https://leetcode.com/problems/detect-cycles-in-2d-grid/)
+- [-] problem challenge 3 [https://leetcode.com/problems/detect-cycles-in-2d-grid/](https://leetcode.com/problems/detect-cycles-in-2d-grid/)
 
 ## Pattern: Fast & Slow pointers
 
--   [https://leetcode.com/problems/linked-list-cycle/](https://leetcode.com/problems/linked-list-cycle/)
--   [https://leetcode.com/problems/linked-list-cycle-ii/](https://leetcode.com/problems/linked-list-cycle-ii/)
+-   [-] [https://leetcode.com/problems/linked-list-cycle/](https://leetcode.com/problems/linked-list-cycle/)
+-  [-] [https://leetcode.com/problems/linked-list-cycle-ii/](https://leetcode.com/problems/linked-list-cycle-ii/)
 -   [https://leetcode.com/problems/happy-number/](https://leetcode.com/problems/happy-number/)
--   [https://leetcode.com/problems/middle-of-the-linked-list/](https://leetcode.com/problems/middle-of-the-linked-list/)
--   [https://leetcode.com/problems/palindrome-linked-list/](https://leetcode.com/problems/palindrome-linked-list/)
+-  [-] [https://leetcode.com/problems/middle-of-the-linked-list/](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [-]  [https://leetcode.com/problems/palindrome-linked-list/](https://leetcode.com/problems/palindrome-linked-list/)
 -   [https://leetcode.com/problems/reorder-list/](https://leetcode.com/problems/reorder-list/)
 -   [https://leetcode.com/problems/circular-array-loop/](https://leetcode.com/problems/circular-array-loop/)
 
