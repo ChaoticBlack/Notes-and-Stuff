@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solutions/Populating Next Right Pointers in Each Node.md",
+                "file": "Resources/Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e3162e43478f019",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Core CSE Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c77bf1f44c4f8064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grokking the Coding Interview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#LinkedList",
+                "query": "apti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solutions/Populating Next Right Pointers in Each Node.md",
+                "file": "Grokking the Coding Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solutions/Populating Next Right Pointers in Each Node.md",
+                "file": "Grokking the Coding Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solutions/Populating Next Right Pointers in Each Node.md"
+                "file": "Grokking the Coding Interview.md"
               }
             }
           }
@@ -167,10 +191,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2020a806fa8c754",
+  "active": "c77bf1f44c4f8064",
   "lastOpenFiles": [
-    "Grokking the Coding Interview.md",
+    "Aptitude.md",
+    "Resources/Core CSE Questions.md",
+    "Resources/Resources.md",
+    "Resources/The 29 most common Software Engineer behavioral interview questions.md",
+    "Resources/Behavioral interviews.md",
+    "Resources/Amazon Software Engineer behavioral interview questions.md",
+    "Resources/Values Interviews.md",
+    "Leetcode Interviews.md",
+    "Interview Types.md",
+    "Dynamic Patterns.md",
     "Solutions/Populating Next Right Pointers in Each Node.md",
+    "Grokking the Coding Interview.md",
     "Solutions/Populating Next Right Pointers in Each Node.mp3",
     "Template.md",
     "Solved Questions.md",
@@ -187,20 +221,11 @@
     "Solutions/Removing Minimum and Maximum From Array.md",
     "Solutions/Reverse String.md",
     "Solutions/Linked List Cycle.md",
-    "Solutions/Palindrome Linked List.md",
-    "Generative AI Startups.md",
-    "Solutions/Detect Cycles in 2D Grid.md",
-    "Solutions/Number of Islands.md",
     "Solutions/Detect Cycles in 2D Grid.mp3",
-    "Solutions/Island Perimeter.md",
-    "Solutions/Number of Closed Islands.md",
     "Solutions/Number of Closed Islands.mp3",
-    "Solutions/Flood Fill.md",
     "Solutions/Flood Fill.mp3",
-    "Solutions/Max Area of Island.md",
     "Solutions/Max Area of Island.mp3",
     "Solutions/Number of Islands.mp3",
-    "Solutions/Contains Duplicate II.md",
     "Solutions/Longest Repeating Character Replacement.mp3",
     "Solutions/Minimum Window Substring.mp3",
     "Solutions/Best Time to Buy and Sell Stock.mp3",
