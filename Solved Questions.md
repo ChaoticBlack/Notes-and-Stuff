@@ -215,5 +215,11 @@ https://leetcode.com/problems/path-sum-iii/
 #medium #BinaryTree #DepthFirstSearch 
 
 ### 92. Reverse Linked List II
-
+https://leetcode.com/problems/reverse-linked-list-ii/
 [[Reverse Linked List II|Solution]]
+#medium #LinkedList 
+
+### 25. Reverse Nodes in k-Group
+https://leetcode.com/problems/reverse-nodes-in-k-group/
+[[Reverse Nodes in k-Group|Solution]]
+#hard #LinkedList 

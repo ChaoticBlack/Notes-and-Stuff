@@ -85,8 +85,9 @@
 - [-]  [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)
 	- [[Reverse Linked List|Solution]]
 - [-]  [https://leetcode.com/problems/reverse-linked-list-ii/](https://leetcode.com/problems/reverse-linked-list-ii/)
-	- 
+	- [[Reverse Linked List II|Solution]]
 -   [https://leetcode.com/problems/reverse-nodes-in-k-group/](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+	- [[]]
 -   Next question is the same, but alternate each subgroup
 -   [https://leetcode.com/problems/rotate-list/](https://leetcode.com/problems/rotate-list/)
 
