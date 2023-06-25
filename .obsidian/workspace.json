@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Core CSE Questions.md",
+                "file": "Grokking the Coding Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grokking the Coding Interview.md",
+                "file": "Solved Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grokking the Coding Interview.md",
+                "file": "Solved Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grokking the Coding Interview.md",
+                "file": "Solved Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grokking the Coding Interview.md"
+                "file": "Solved Questions.md"
               }
             }
           }
@@ -193,42 +193,41 @@
   },
   "active": "c77bf1f44c4f8064",
   "lastOpenFiles": [
-    "Aptitude.md",
+    "Solutions/Path Sum III.md",
+    "Grokking the Coding Interview.md",
+    "Solutions/Path Sum III.mp3",
+    "Template.md",
+    "Solved Questions.md",
+    "Solutions/Sum Root to Leaf Numbers.md",
+    "Solutions/Sum Root to Leaf Numbers.mp3",
+    "Solutions/Path Sum II.md",
+    "Solutions/Path Sum II.mp3",
+    "Solutions/Path Sum.md",
     "Resources/Core CSE Questions.md",
-    "Resources/Resources.md",
+    "Solutions/Path Sum.mp3",
+    "Practical Coding.md",
+    "startup shortlist.md",
+    "My Projects.md",
     "Resources/The 29 most common Software Engineer behavioral interview questions.md",
     "Resources/Behavioral interviews.md",
+    "Resources/Aptitude.md",
+    "Resources/Resources.md",
     "Resources/Amazon Software Engineer behavioral interview questions.md",
     "Resources/Values Interviews.md",
     "Leetcode Interviews.md",
     "Interview Types.md",
     "Dynamic Patterns.md",
     "Solutions/Populating Next Right Pointers in Each Node.md",
-    "Grokking the Coding Interview.md",
     "Solutions/Populating Next Right Pointers in Each Node.mp3",
-    "Template.md",
-    "Solved Questions.md",
     "Solutions/Binary Tree Level Order Traversal.md",
     "Solutions/Minimum Depth of Binary Tree.md",
     "Solutions/Minimum Depth of Binary Tree.mp3",
     "Solutions/Maximum Depth of Binary Tree.md",
     "Solutions/Binary Tree Zigzag Level Order Traversal.md",
-    "non-LeetCode Companies.md",
-    "Solutions/Reorder List.md",
-    "startup shortlist.md",
-    "143. Reorder List.md",
-    "Solutions/Reverse Linked List.md",
-    "Solutions/Removing Minimum and Maximum From Array.md",
-    "Solutions/Reverse String.md",
-    "Solutions/Linked List Cycle.md",
     "Solutions/Detect Cycles in 2D Grid.mp3",
     "Solutions/Number of Closed Islands.mp3",
     "Solutions/Flood Fill.mp3",
     "Solutions/Max Area of Island.mp3",
-    "Solutions/Number of Islands.mp3",
-    "Solutions/Longest Repeating Character Replacement.mp3",
-    "Solutions/Minimum Window Substring.mp3",
-    "Solutions/Best Time to Buy and Sell Stock.mp3",
     "Solutions/Jump Game.jpeg",
     "Solutions/Maximum Alternating Subsequence Sum.jpeg"
   ]

@@ -193,3 +193,27 @@ https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
 https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/
 [[Populating Next Right Pointers in Each Node|Solution]]
 #medium #BinaryTree #BreadthFirstSearch 
+
+### 112. Path Sum
+https://leetcode.com/problems/path-sum/
+[[Path Sum|Solution]]
+#easy #DepthFirstSearch #BinaryTree 
+
+### 113. Path Sum II
+https://leetcode.com/problems/path-sum-ii/
+[[Path Sum II|Solution]]
+#medium #BinaryTree #DepthFirstSearch 
+
+### 129. Sum Root to Leaf Numbers
+https://leetcode.com/problems/sum-root-to-leaf-numbers/
+[[Sum Root to Leaf Numbers|Solution]]
+#medium #BinaryTree #DepthFirstSearch 
+
+### 437. Path Sum III
+https://leetcode.com/problems/path-sum-iii/
+[[Path Sum III|Solution]]
+#medium #BinaryTree #DepthFirstSearch 
+
+### 92. Reverse Linked List II
+
+[[Reverse Linked List II|Solution]]

@@ -82,8 +82,10 @@
 
 ## Pattern: In-place Reversal of a LinkedList
 
--   [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)
--   [https://leetcode.com/problems/reverse-linked-list-ii/](https://leetcode.com/problems/reverse-linked-list-ii/)
+- [-]  [https://leetcode.com/problems/reverse-linked-list/](https://leetcode.com/problems/reverse-linked-list/)
+	- [[Reverse Linked List|Solution]]
+- [-]  [https://leetcode.com/problems/reverse-linked-list-ii/](https://leetcode.com/problems/reverse-linked-list-ii/)
+	- 
 -   [https://leetcode.com/problems/reverse-nodes-in-k-group/](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 -   Next question is the same, but alternate each subgroup
 -   [https://leetcode.com/problems/rotate-list/](https://leetcode.com/problems/rotate-list/)
@@ -108,11 +110,15 @@
 
 ## Pattern: Tree Depth First Search
 
--   [https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)
--   [https://leetcode.com/problems/path-sum-ii/](https://leetcode.com/problems/path-sum-ii/)
--   [https://leetcode.com/problems/sum-root-to-leaf-numbers/](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+- [-]  [https://leetcode.com/problems/path-sum/](https://leetcode.com/problems/path-sum/)
+	- [[Path Sum|Solution]]
+- [-]  [https://leetcode.com/problems/path-sum-ii/](https://leetcode.com/problems/path-sum-ii/)
+	- [[Path Sum II|Solution]]
+- [-]  [https://leetcode.com/problems/sum-root-to-leaf-numbers/](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+	- [[Sum Root to Leaf Numbers|Solution]]
 -   [https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/description/](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/description/)
--   [https://leetcode.com/problems/path-sum-iii/](https://leetcode.com/problems/path-sum-iii/)
+- [-]  [https://leetcode.com/problems/path-sum-iii/](https://leetcode.com/problems/path-sum-iii/)
+	- [[Path Sum III|Solution]]
 -   [https://leetcode.com/problems/diameter-of-binary-tree/](https://leetcode.com/problems/diameter-of-binary-tree/)
 -   [https://leetcode.com/problems/binary-tree-maximum-path-sum/](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
