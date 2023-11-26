@@ -25,5 +25,7 @@ If you want to use this vault to make your own notes, be my guest! You have have
 
 ## Some tutorials:
 [ Hack your brain with Obsidian.md ](https://www.youtube.com/watch?v=DbsAQSIKQXk)
+
 [ Obsidian As A Second Brain: The ULTIMATE Tutorial ](https://www.youtube.com/watch?v=WqKluXIra70)
+
 [ Go From PARA Method Beginner to Second Brain Pro with Obsidian MD (Free Setup Templates and Course) ](https://www.youtube.com/watch?v=445yxZbj4H4)
