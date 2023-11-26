@@ -2,6 +2,10 @@
 
 This repo contains the coding notes I made during my M.E at BITS Pilani Hyderabad Campus.
 
+
+![Obsidian Graph View](https://github.com/ChaoticBlack/Notes-and-Stuff/assets/55967429/61938020-47e4-4912-b8d4-d85e7cdf8251)
+
+
 ## Steps to use:
 1) Download this repo and unzip the folders.
 2) To view the files as intended, download and install [Obsidian](https://obsidian.md/download).
